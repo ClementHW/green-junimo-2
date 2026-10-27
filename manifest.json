@@ -1,0 +1,469 @@
+{
+  "schema_version": 1,
+  "sprite_version": 2,
+  "canvas": [
+    1536,
+    2288
+  ],
+  "cell": [
+    192,
+    208
+  ],
+  "pixel_grid": 4,
+  "expected_rgba_sha256": "6948381c02342c98786d049cb1843bb7182e2d2a971087e41a21e613e001ecf5",
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": [
+        {
+          "path": "assets/frames/idle/00.png",
+          "sha256": "49a6a3868dea6e7e0e53e7abedbd232802ac16cfa5abf2a92f60292b4d3ccdd4"
+        },
+        {
+          "path": "assets/frames/idle/01.png",
+          "sha256": "ec7f0c094630c34c2abad3339c48826e3dbfb79b27e5160b499ca510ebfe70c4"
+        },
+        {
+          "path": "assets/frames/idle/02.png",
+          "sha256": "2fd5af90e1c3b984d2457f2af8cce6785d4cfcb3c307240e02c470a08cd90af8"
+        },
+        {
+          "path": "assets/frames/idle/03.png",
+          "sha256": "fef4d04e2c41115e89c13bfc82d4d259c87b062287e2006a749d5233671385bb"
+        },
+        {
+          "path": "assets/frames/idle/04.png",
+          "sha256": "9d424bae7f06e64a92dbb2c4c198eb601f15ce37713207968ba957c73be1c1bb"
+        },
+        {
+          "path": "assets/frames/idle/05.png",
+          "sha256": "5b84ebcd736339940dbde95e2fd4e01a7f68d15d5102b9cff67284f844e6afe7"
+        }
+      ],
+      "preview_durations_ms": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ]
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": [
+        {
+          "path": "assets/frames/running-right/00.png",
+          "sha256": "ccfb8801e3c3fa07c0d8e32ea5b20759450d616d0d8769d0eb102d53bb911257"
+        },
+        {
+          "path": "assets/frames/running-right/01.png",
+          "sha256": "3f8f03e1886fbc2df34938dcabe4d41096afc65ea9842621673b7f7ef4cf660c"
+        },
+        {
+          "path": "assets/frames/running-right/02.png",
+          "sha256": "c6a4c8cb1bff388db02f65dfa3ae13de466c037c3c456bddc7a2dfeca37e1b5e"
+        },
+        {
+          "path": "assets/frames/running-right/03.png",
+          "sha256": "d838446ff9fdfdbef137459d62b61accd275f54a961d481b64ce8baf755adb69"
+        },
+        {
+          "path": "assets/frames/running-right/04.png",
+          "sha256": "007dbd5980b3fb115d3308539f157b7b1df9c4fad845ef4d047c111ea1314ba2"
+        },
+        {
+          "path": "assets/frames/running-right/05.png",
+          "sha256": "b32e905489d273194c141bb9077b8daa7b5a6c23d81ffb8c3f8a5f9e85218a51"
+        },
+        {
+          "path": "assets/frames/running-right/06.png",
+          "sha256": "0797ced00fc768f7df3cfaa7ff9b07bd073ffd5f24d2664df8efcb428bccd70a"
+        },
+        {
+          "path": "assets/frames/running-right/07.png",
+          "sha256": "60455756141358b6f97486752892d5118c2510d3b0f3c1a69a8c840529f95061"
+        }
+      ],
+      "preview_durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": [
+        {
+          "path": "assets/frames/running-left/00.png",
+          "sha256": "43807ce9c421ad538de2500cc6a9289fe94fdfa72d12a76f8db387c424307ee0"
+        },
+        {
+          "path": "assets/frames/running-left/01.png",
+          "sha256": "268944aaa61ea784f85c228c6b1c1687518105432acd536fe5f379661d84e1e3"
+        },
+        {
+          "path": "assets/frames/running-left/02.png",
+          "sha256": "8b5138f248bc8bdd39d7ac550b141d1a0066f10104d28f07f2ad09525aee74ba"
+        },
+        {
+          "path": "assets/frames/running-left/03.png",
+          "sha256": "a00ed1997efbf99a1fef54e9e71b8a389e7c34c9366b9cb156420fdeab5c4265"
+        },
+        {
+          "path": "assets/frames/running-left/04.png",
+          "sha256": "2d0e28af72680cbcf5de1c1fb3b80dcd58354937ef58e3a7be0fef238dc93590"
+        },
+        {
+          "path": "assets/frames/running-left/05.png",
+          "sha256": "1df621b3e75420b7ad69f9827cf6c321ff844b09c8b68c69873c56f02ec9ccb4"
+        },
+        {
+          "path": "assets/frames/running-left/06.png",
+          "sha256": "2582f2883a513d7c6cf9acaba465fe50fbfe71d66a220d16769c2484440fa27b"
+        },
+        {
+          "path": "assets/frames/running-left/07.png",
+          "sha256": "5098939f2633da11b4d973885c929331d76b124892c2886ac18e8fda1e418b63"
+        }
+      ],
+      "preview_durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": [
+        {
+          "path": "assets/frames/waving/00.png",
+          "sha256": "b263adf9448aa7957c4111017264680286bfb24472ad72befc545df920ad41d2"
+        },
+        {
+          "path": "assets/frames/waving/01.png",
+          "sha256": "7c8de04c58852a750e1ea03d01b4fa46fb4565ee5a6de8e56016e7986edcbf81"
+        },
+        {
+          "path": "assets/frames/waving/02.png",
+          "sha256": "cc2e45b609716741649a9d4a388e5380afb94f3aadb968cbc35f138b2d62e976"
+        },
+        {
+          "path": "assets/frames/waving/03.png",
+          "sha256": "dcb259d11802b9dfa5606ae51eecdf9ad48f13cd402f07600d4c97f298a82848"
+        }
+      ],
+      "preview_durations_ms": [
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": [
+        {
+          "path": "assets/frames/jumping/00.png",
+          "sha256": "45f7fd72ef5a0c83b64d928a83c51b3db983a500af559e85ad9c78d55f2a7fa6"
+        },
+        {
+          "path": "assets/frames/jumping/01.png",
+          "sha256": "92ae5623730d7d897b65222b72f22c5125b7b9ef5048a4662b78562e9a392626"
+        },
+        {
+          "path": "assets/frames/jumping/02.png",
+          "sha256": "6d9e3805c1ca6262ef2e79e7385c23e4321476c43910afd5be2b468cef6ae02a"
+        },
+        {
+          "path": "assets/frames/jumping/03.png",
+          "sha256": "92ae5623730d7d897b65222b72f22c5125b7b9ef5048a4662b78562e9a392626"
+        },
+        {
+          "path": "assets/frames/jumping/04.png",
+          "sha256": "45f7fd72ef5a0c83b64d928a83c51b3db983a500af559e85ad9c78d55f2a7fa6"
+        }
+      ],
+      "preview_durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": [
+        {
+          "path": "assets/frames/failed/00.png",
+          "sha256": "7c7e531af1be84a176b87aed4894ca7e3ebb9349881151faa3596c9384026a5c"
+        },
+        {
+          "path": "assets/frames/failed/01.png",
+          "sha256": "f5e39e17ad3f34c83356e442b915b67c566312a659570224c25e694e08ab311f"
+        },
+        {
+          "path": "assets/frames/failed/02.png",
+          "sha256": "367eb774658c483f6bf4f43dc528617ea4eea2b07debbb75c03601ce5a85ae2d"
+        },
+        {
+          "path": "assets/frames/failed/03.png",
+          "sha256": "a86242b480b042fcad7cd115ebf19266d1c3f7cc83ac5ba68a1eb18435257d38"
+        },
+        {
+          "path": "assets/frames/failed/04.png",
+          "sha256": "f5e39e17ad3f34c83356e442b915b67c566312a659570224c25e694e08ab311f"
+        },
+        {
+          "path": "assets/frames/failed/05.png",
+          "sha256": "2d7fdbc0af6864d9d59795d92ab169c0ea8ca29fb88b1960e56f51ca408a0857"
+        },
+        {
+          "path": "assets/frames/failed/06.png",
+          "sha256": "6a1f27bca3f2181731c4d59e28e1c2d7b15cc246ff9ebbc13fbaf76175097ff2"
+        },
+        {
+          "path": "assets/frames/failed/07.png",
+          "sha256": "7d811192435d31fd7b2b5f88c52cef397cbe5a9f859c36fb5082ab5685541f66"
+        }
+      ],
+      "preview_durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ]
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": [
+        {
+          "path": "assets/frames/waiting/00.png",
+          "sha256": "bbd3d64ed607b38506357604d989f12720145940560afc43ba000bd540e5c51d"
+        },
+        {
+          "path": "assets/frames/waiting/01.png",
+          "sha256": "4a022f45a953c906ad4df5b4175860d91cea1756c10fb43395e40382effaa7f3"
+        },
+        {
+          "path": "assets/frames/waiting/02.png",
+          "sha256": "bfbb44ea5d149deaf199f70a3f99d20ec1310e0d442d9d74227a1b83b4671e5b"
+        },
+        {
+          "path": "assets/frames/waiting/03.png",
+          "sha256": "0a3dad9d4b6e962093dbeecb7f2e083cdb2e24af524a18ee35d7e302c46a1b1e"
+        },
+        {
+          "path": "assets/frames/waiting/04.png",
+          "sha256": "3f44817371e66ac01ca484a3a26919a79e64c9f9c20ad580d3b92161f7b3967e"
+        },
+        {
+          "path": "assets/frames/waiting/05.png",
+          "sha256": "2940a77e4bf503241644f9042093170bfa4edbea4dba57c6cb0a5280e7ebbec9"
+        }
+      ],
+      "preview_durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ]
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": [
+        {
+          "path": "assets/frames/running/00.png",
+          "sha256": "7d19bb5ae537394904a48c89e59c10c0b263e0dd7ef354b38210401ebe0d8096"
+        },
+        {
+          "path": "assets/frames/running/01.png",
+          "sha256": "7d19bb5ae537394904a48c89e59c10c0b263e0dd7ef354b38210401ebe0d8096"
+        },
+        {
+          "path": "assets/frames/running/02.png",
+          "sha256": "c5105875493c79a2cdf86cccfbbdbf1f913211cd09170ab93f305fe210ae300c"
+        },
+        {
+          "path": "assets/frames/running/03.png",
+          "sha256": "64272454ac0fb883641584c0335eeb8e01dc142c75766a860e75c1bdd10d8d15"
+        },
+        {
+          "path": "assets/frames/running/04.png",
+          "sha256": "64272454ac0fb883641584c0335eeb8e01dc142c75766a860e75c1bdd10d8d15"
+        },
+        {
+          "path": "assets/frames/running/05.png",
+          "sha256": "c5105875493c79a2cdf86cccfbbdbf1f913211cd09170ab93f305fe210ae300c"
+        }
+      ],
+      "preview_durations_ms": [
+        70,
+        80,
+        150,
+        70,
+        80,
+        150
+      ]
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": [
+        {
+          "path": "assets/frames/review/00.png",
+          "sha256": "41eccde96e40904ef2ce3c96fe2f2a20d9157d981912260fcc6dede8c338caf7"
+        },
+        {
+          "path": "assets/frames/review/01.png",
+          "sha256": "3964a8c7ee98ff9871570e7d09cd17c6c65cb5c58186def1fd569296642b8209"
+        },
+        {
+          "path": "assets/frames/review/02.png",
+          "sha256": "ef454d3758b6c14549392348701b3c012dd1a7a747615baabb1d8575acbcfccf"
+        },
+        {
+          "path": "assets/frames/review/03.png",
+          "sha256": "dd66fb3a8882aa99ef56ba3f1d067b4bb2b6796cb36f87ddccea8d734652815d"
+        },
+        {
+          "path": "assets/frames/review/04.png",
+          "sha256": "0e89d4d8fb27751b111b28dc708d835ffc47b8e5db50d83d4e6f867a214d7b94"
+        },
+        {
+          "path": "assets/frames/review/05.png",
+          "sha256": "cb0a265c7c6cb9cf9fe1b23c1938c9938119876faa02813db4acee9523c518b5"
+        }
+      ],
+      "preview_durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ]
+    },
+    {
+      "state": "look-000-157",
+      "row": 9,
+      "frames": [
+        {
+          "path": "assets/frames/look-000-157/00.png",
+          "sha256": "10188074b4939dfb71823798b66251d3f59b54e9cb9c13d3a57d7ec3b7fd371e"
+        },
+        {
+          "path": "assets/frames/look-000-157/01.png",
+          "sha256": "d4529ec25c8126336773d55aa8a9e1783de471f6eb163c63dc67df7e55437c68"
+        },
+        {
+          "path": "assets/frames/look-000-157/02.png",
+          "sha256": "59ad7eda9b11661570dc1c11e7a1bd06d925ed11ffcc9168da5ee6d8c500b46f"
+        },
+        {
+          "path": "assets/frames/look-000-157/03.png",
+          "sha256": "cdc2ba77e87dfb90368dd5f59aa16dd90847f4f3c6171f26849f44d669973723"
+        },
+        {
+          "path": "assets/frames/look-000-157/04.png",
+          "sha256": "59bf11b5340a8acaaf9dd1bb10b3ec37e016495f12440ae86b9b245f4db434c4"
+        },
+        {
+          "path": "assets/frames/look-000-157/05.png",
+          "sha256": "8c6d7655c3efdddb74bc77e91528c7a3f12e47c7908fbaf8d2becb016d4d041a"
+        },
+        {
+          "path": "assets/frames/look-000-157/06.png",
+          "sha256": "7bdb7c92ec0742c7df2fbb3212520993b2bfae25719c69606db65f4cb80976bb"
+        },
+        {
+          "path": "assets/frames/look-000-157/07.png",
+          "sha256": "603235c0947fcb5c71c87a53b1c29e2ef2100631dd8ce96282131f5015406565"
+        }
+      ],
+      "preview_durations_ms": [
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180
+      ]
+    },
+    {
+      "state": "look-180-337",
+      "row": 10,
+      "frames": [
+        {
+          "path": "assets/frames/look-180-337/00.png",
+          "sha256": "f42e729e991832fa431dacfa76253c58bc011972758f953b6bddbe8cc32acb30"
+        },
+        {
+          "path": "assets/frames/look-180-337/01.png",
+          "sha256": "82f602d9db1ca4240b9c29ecdf5133060f789d2288e0b2a64ee8d8c82ed9c30c"
+        },
+        {
+          "path": "assets/frames/look-180-337/02.png",
+          "sha256": "1da19eebceeb6065939afaaf65aabbb6cb4b102d24956ed948bd431db2f5f1a0"
+        },
+        {
+          "path": "assets/frames/look-180-337/03.png",
+          "sha256": "44f4ffa5dad7278a7349eb67594d5166aa5f760d1c6597c63fb8d0212939b3fe"
+        },
+        {
+          "path": "assets/frames/look-180-337/04.png",
+          "sha256": "ec892710c3cc780f10079db5670b8e34c060dcd81208445d7eadc1af093dd1d1"
+        },
+        {
+          "path": "assets/frames/look-180-337/05.png",
+          "sha256": "5c9adbea73424b6f461754780d152996ac83d8cbb159833683236247df1b3f08"
+        },
+        {
+          "path": "assets/frames/look-180-337/06.png",
+          "sha256": "13ebaa856ce135bbcb516a8959097b3f0bf926628b8ad33b148ecfad4e5c49a7"
+        },
+        {
+          "path": "assets/frames/look-180-337/07.png",
+          "sha256": "5b010390c835622fd90516ffb451675874004fe1f30294eb6ab8b033e36f6b34"
+        }
+      ],
+      "preview_durations_ms": [
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180
+      ]
+    }
+  ]
+}
